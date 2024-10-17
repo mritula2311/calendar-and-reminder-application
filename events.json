@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2024-10-18",
+        "title": "lab exam",
+        "description": "physics",
+        "category": "Work",
+        "color": "#00fdfe",
+        "time": "00:00:00",
+        "recurrence": "None"
+    },
+    {
+        "date": "2024-10-21",
+        "title": "theory",
+        "description": "chemistry",
+        "category": "Work",
+        "color": "#02f8f1",
+        "time": "22:30:00",
+        "recurrence": "None"
+    },
+    {
+        "date": "2024-10-22",
+        "title": "submit record",
+        "description": "",
+        "category": "Work",
+        "color": "#00fdf4",
+        "time": "11:30:00",
+        "recurrence": "None"
+    },
+    {
+        "date": "2024-10-24",
+        "title": "To buy grocery",
+        "description": "",
+        "category": "Personal",
+        "color": "#f000ff",
+        "time": "18:30:00",
+        "recurrence": "None"
+    }
+]
